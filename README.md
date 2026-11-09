@@ -19,7 +19,7 @@ Me chamo Walex Abnassif Dos Santos, tenho 20 anos e sou natural do Pará. Conclu
             src="https://custom-icon-badges.demolab.com/github/followers/Walex777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <a href="https://instagram.com/walex.santos77" target="_blank">
         <img 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank"
